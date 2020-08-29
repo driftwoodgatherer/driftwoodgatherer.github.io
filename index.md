@@ -1,8 +1,8 @@
 
-## Driftwood Gatherer 
+## Welcome to the Driftwood Gatherer 
 
 
-Collecting driftwood around the United Kingdom and Ireland. 
+Collecting driftwood around the United Kingdom and Ireland. Usually I collect it from North Wales, Dorset, Devon and Cornwall 
 
 
 ### Driftwood Mixed Bundles - Prepared Driftwood

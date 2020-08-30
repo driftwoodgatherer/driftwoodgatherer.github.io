@@ -1,10 +1,12 @@
 
-## Welcome to the Driftwood Gatherer 
+## Coastal driftwood for sale UK. 
 
 
-Collecting driftwood around the United Kingdom and Ireland. Usually I collect it from North Wales, Dorset, Devon and Cornwall 
+Coastal driftwood for sale UK. Buy driftwood for use in driftwood craft projects, driftwood home decor, driftwood wedding ideas or beach house decor ideas.
+
+The driftwood is mostly collected from the Cletic shores of Gwynedd  and along the Jurassic coast of Dorset.
 
 
 ### Driftwood Mixed Bundles - Prepared Driftwood
-In these bundles the driftwood has been prepared and is ready for use. 
+This driftwood has been carefully prepared and sterilised making it ready to use and perfect for home craft projects. 
 

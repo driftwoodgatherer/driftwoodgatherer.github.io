@@ -1,12 +1,11 @@
 
-## Coastal driftwood for sale UK. 
+##The Driftwood Gatherer and Celtic Wanderer Studio
 
+##Ireland 
+![Irish gifts, arts and craft from Ireland](/ireland-flag-small.jpg)
 
-Coastal driftwood for sale UK. Buy driftwood for use in driftwood craft projects, driftwood home decor, driftwood wedding ideas or beach house decor ideas.
+Beautiful Irish driftwood gifts and arts and crafts from the shores of Ireland [View Ireland Store](/ireland.md)
 
-The driftwood is mostly collected from the Cletic shores of Gwynedd  and along the Jurassic coast of Dorset.
-
-
-### Driftwood Mixed Bundles - Prepared Driftwood
-This driftwood has been carefully prepared and sterilised making it ready to use and perfect for home craft projects. 
+##Scotland
+Beautiful Scottish driftwood gifts and arts and crafts from the shores and locks of Scotland.
 

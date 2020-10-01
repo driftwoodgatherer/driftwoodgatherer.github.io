@@ -1,4 +1,5 @@
-theme: jekyll-theme-cayman
-title: Driftwood Gatherer
-#description: Collecting driftwood around the United Kingdom and Ireland
-​#remote_theme: ​chrisrhymes/bulma-clean-theme
+theme: jekyll-theme-minimal
+#title: Driftwood Gatherer
+title: 
+description: Gathering driftwood whilst traveling around the cetic shores of the British Isles and Ireland.
+logo: /logo.jpg

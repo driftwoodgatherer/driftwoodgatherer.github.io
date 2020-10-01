@@ -22,7 +22,18 @@
 
         <p>{{ site.description | default: site.github.project_tagline }}</p>
 
-<ul><li>Ireland</li><ul>
+
+
+{% assign current = page.url | downcase | split: '/' %}
+
+<nav>
+  <ul>
+    <li><a href='/Home' {% if current[1] == 'home' %}class='current'{% endif %}>Home</a></li>
+    <li><a href='/ireland' {% if current[1] == 'ireland' %}class='current'{% endif %}>Ireland</a></li>
+    <li><a href='/scotland' {% if current[1] == 'scotland' %}class='current'{% endif %}>Scotland</a></li>
+  </ul>
+</nav>
+
         {% if site.show_downloads %}
         <ul class="downloads">
           <li><a href="{{ site.github.zip_url }}">Download <strong>ZIP File</strong></a></li>

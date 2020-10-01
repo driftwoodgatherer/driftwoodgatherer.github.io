@@ -17,7 +17,8 @@ Small pieces of driftwood. A simple idea that brings a real part of Ireland into
 This very unusual keyring is sure to get people asking about it. Lovely to hold.  Very tactile. A real piece of Ireland in your hand. 
 
 ## Driftwood Garlands
-### Rear view mirror size
+### Rear view mirror garland
+![driftwood for RV](/assets/images/garland1.jpg)
 Perfect for cars and RVs. Very cool!
 
 ### Hanging sculpture size

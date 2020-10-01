@@ -14,10 +14,10 @@ Beautiful Scottish driftwood gifts and arts and crafts from the shores and locks
 
 
 ## Wales
-![Welsh gifts, arts and craft from Wales](/welsh-flag-small.jpg)
+![Welsh gifts, arts and craft from Wales](/wales-flag-small.jpg)
 
 
 ## England
-![English gifts, arts and craft from England](/englnd-flag-small.jpg)
+![English gifts, arts and craft from England](/england-flag-small.jpg)
 
 

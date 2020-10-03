@@ -1,4 +1,4 @@
-# History of Common Irish Surnames
+# Common Irish Surnames
 
 ## Murphy
 Murphy derives derives from the original
@@ -72,4 +72,11 @@ Brian Boru who was king
 to be one of the greatest ancient kings of Ireland 
 
 
+## O'Connor
+The surname O'Connor was first found in 
+Connaught which is the western most province
+ of Ireland and comprises of the coastal
+ counties of Mayo, Sligo and  Galway and
+ inland Leitrim and Roscommon. The name means
+ something like "hound of desire".
 

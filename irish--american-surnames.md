@@ -1,13 +1,16 @@
-# History of Irish Surnames
+# History of Common Irish Surnames
 
 ## Murphy
-Murphy derives from O Murchadha or
- Mac Murchadha which is the original Gaelic
- form and means "sea warrior". The first
+Murphy derives derives from the original
+ Gaelic form of O Murchadha or
+ Mac Murchadha which means "sea warrior". 
+The first
 occurrence of the surname has been found to be
- in County Wexford in SE Ireland. 
+ in coastal County Wexford in SE Ireland. 
  It is the most common Irish surname in the 
 United States.
+
+See driftwood from County Wexford
 
 ### Driftwood from County Wexford
 
@@ -32,6 +35,20 @@ With many members of the Ó Ceallaigh clan being
 
 Coastal counties associated with the name
  Kelly include: Clare, Donegal, Dublin, Galway, Mayo, Sligo,
- Waterford, Wicklow
+ Waterford and Wicklow
+
+## Sullivan
+
+The first occurrence of the surname Sullivan 
+Was found in County Tipperary and predates the
+Anglo-Norman invasion. It is derived from the
+Gaelic Súileabháin which means "dark eye". 
+Today the surname is predominantly found in 
+Cork, Kerry and Limerick 
+
+
+
+
+
 
 

@@ -3,12 +3,11 @@ title: Driftwood Art, Craft and Gifts from Ireland
 permalink: /ireland
 description:  Beautiful Irish driftwood gifts and arts and crafts from the shores of Ireland
 ---
-![Driftwood Art, Crafts and Gifts from Ireland](/ireland-flag-small.jpg)
+<IMG alt='Driftwood Art, Crafts and Gifts from Ireland' SRC='/ireland-flag-small.jpg' class='flag-header' />
 
 
 # Art, Crafts and Gifts made with Irish Driftwood 
-<IMG SRC='/ireland-flag-small.jpg' class='flag-icon' />
- 
+
 ![Coastline of Ireland](/assets/images/ireland1.jpg)
 
 The driftwood is gathered from the shores of

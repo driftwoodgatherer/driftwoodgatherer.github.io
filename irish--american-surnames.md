@@ -46,9 +46,13 @@ Gaelic Súileabháin which means "dark eye".
 Today the surname is predominantly found in 
 Cork, Kerry and Limerick 
 
+## Kennedy
 
-
-
-
+Kennedy  derives from the Gaelic name 
+Ceannéidigh which means "ugly head". The 
+surname is predominantly found in inlad County Tipperary 
+where the medieval Kennedy's had a barony.
+President Kennedy's family came from coastal County
+ Wexford.
 
 

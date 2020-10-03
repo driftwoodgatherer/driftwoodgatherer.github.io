@@ -24,6 +24,7 @@ The driftwood is gathered from the shores of
 <IMG alt='Irish Driftwood Small Pieces' SRC='/assets/images/bits1-680.jpg' />
 
 A simple but beautiful idea.
+
 $9.95 
 
 ### Driftwood Keyring

@@ -3,9 +3,12 @@ title: Driftwood Art, Craft and Gifts from Ireland
 permalink: /ireland
 description:  Beautiful Irish driftwood gifts and arts and crafts from the shores of Ireland
 ---
+![Driftwood Art, Crafts and Gifts from Ireland](/assets/images/ireland-flag-small.jpg)
+
+
 # Art, Crafts and Gifts made with Irish Driftwood
  
-![Driftwood Art, Crafts and Gifts from Ireland](/ireland1.jpg)
+![Coastline of Ireland](/assets/images/ireland1.jpg)
 
 The driftwood is gathered from the shores of
  Donegal, Kerry, Dingle, Cork and Wicklow. If

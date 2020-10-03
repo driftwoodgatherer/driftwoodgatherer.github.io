@@ -7,7 +7,7 @@ description:  Beautiful Irish driftwood gifts and arts and crafts from the shore
 
 
 # Art, Crafts and Gifts made with Irish Driftwood 
-<IMG SRC='/flag-ireland-small.jpg' class='flag-icon' />
+<IMG SRC='/ireland-flag-small.jpg' class='flag-icon' />
  
 ![Coastline of Ireland](/assets/images/ireland1.jpg)
 

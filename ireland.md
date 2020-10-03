@@ -28,16 +28,16 @@ A simple but beautiful idea.
 $9.95 
 
 ### Driftwood Keyring
-![Keyring Gift from Ireland](/assets/images/keyring1.jpg)
+![Keyring Gift from Ireland](/assets/images/keyring1-680.jpg)
 This very unusual keyring is sure to get people asking about it. Lovely to hold.  Very tactile. A real piece of Ireland in your hand. 
 
 ### Driftwood Garlands
 #### Rear view mirror garland
-![Rear view mirror garland Ireland](/assets/images/garland1.jpg)
+![Rear view mirror garland Ireland](/assets/images/garland1-680.jpg)
 Perfect for cars and RVs. Very cool!
 
 #### Hanging sculpture size
-![Irish Sculpture from Ireland](/assets/images/garlandart1.jpg)
+![Irish Sculpture from Ireland](/assets/images/garlandart1-680.jpg)
 A larger garland that looks beautiful simply hanging from the wall or ceiling of your home or veranda.
 
 ## Driftwood Canvas Artwork

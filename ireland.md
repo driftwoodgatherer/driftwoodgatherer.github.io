@@ -21,7 +21,8 @@ The driftwood is gathered from the shores of
 ## A little bit of Ireland in your home
 
 ### Small Driftwood Pieces
-<IMG alt='Irish Driftwood Small Pieces' SRC='/assets/images/bits1.jpg' class='product' />
+<IMG alt='Irish Driftwood Small Pieces' SRC='/assets/images/bits1-680.jpg' class='product' />
+
 A simple but beautiful idea 
 
 ### Driftwood Keyring
@@ -38,7 +39,7 @@ Perfect for cars and RVs. Very cool!
 A larger garland that looks beautiful simply hanging from the wall or ceiling of your home or veranda.
 
 ## Driftwood Canvas Artwork
-![Irish Art and Sculpture from Ireland](/assets/images/art1.jpg)
+![Irish Art and Sculpture from Ireland](/assets/images/art1-680.jpg)
 One off pieces of driftwood art. 
 Pieces of ireland that hang on your wall. 
 

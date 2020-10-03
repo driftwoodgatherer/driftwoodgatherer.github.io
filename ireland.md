@@ -21,7 +21,7 @@ The driftwood is gathered from the shores of
 ## A little bit of Ireland in your home
 
 ### Small Driftwood Pieces
-<IMG alt='Irish Driftwood Small Pieces' SRC='/assets/images/bits1-680.jpg' class='product' />
+<IMG alt='Irish Driftwood Small Pieces' SRC='/assets/images/bits1-680.jpg' />
 
 A simple but beautiful idea.
 $9.95 

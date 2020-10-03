@@ -1,5 +1,5 @@
 
-# Driftwood Gifts, Art, Craft and Home Decor by Country
+# Driftwood by Country
 
 ## Ireland 
 ![Irish gifts, arts and craft from Ireland](/ireland-flag-small.jpg)

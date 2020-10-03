@@ -3,8 +3,8 @@ title: Driftwood Art, Craft and Gifts from Ireland
 permalink: /ireland
 description:  Beautiful Irish driftwood gifts and arts and crafts from the shores of Ireland
 ---
-# A little bit of Ireland in your home
-
+# Art, Crafts and Gifts made with Irish Driftwood
+ 
 ![Driftwood Art, Crafts and Gifts from Ireland](/ireland-flag-small.jpg)
 
 The driftwood is gathered from the shores of
@@ -15,17 +15,19 @@ The driftwood is gathered from the shores of
  from other specific locations in Ireland is
  also undertaken.
 
-## Art, Crafts and Gifts made with Irish Driftwood
- 
-### Small Driftwood pieces
-A simple idea that brings a real part of Ireland into your home.
+## A little bit of Ireland in your home
+
+### Small Driftwood Pieces
+![Irish Driftwood Small Pieces](/assets/images/bits1.jpg)
+A simple but beautiful idea 
 
 ### Driftwood Keyring
+![Keyring Gift from Ireland](/assets/images/keyring1.jpg)
 This very unusual keyring is sure to get people asking about it. Lovely to hold.  Very tactile. A real piece of Ireland in your hand. 
 
 ### Driftwood Garlands
 #### Rear view mirror garland
-![driftwood for RV](/assets/images/garland1.jpg)
+![Rear view mirror garland Ireland](/assets/images/garland1.jpg)
 Perfect for cars and RVs. Very cool!
 
 #### Hanging sculpture size

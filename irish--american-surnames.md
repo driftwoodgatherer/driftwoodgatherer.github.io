@@ -1,6 +1,7 @@
-# Common Irish Surnames
+# Common Irish Surnames and Coastal County Origins
 
 ## Murphy
+County: Wexford
 Murphy derives derives from the original
  Gaelic form of O Murchadha or
  Mac Murchadha which means "sea warrior". 
@@ -22,6 +23,8 @@ Wedding favor
 
 
 ## Kelly
+County: Clare, Donegal, Dublin, Galway, Mayo, Sligo,
+ Waterford and Wicklow
 
 
 Kelly derives from the original Gaelic form of the name Kelly
@@ -38,6 +41,7 @@ Coastal counties associated with the name
  Waterford and Wicklow
 
 ## Sullivan
+County: Cork, Kerry and Limerick 
 
 The first occurrence of the surname Sullivan 
 Was found in County Tipperary and predates the
@@ -47,7 +51,7 @@ Today the surname is predominantly found in
 Cork, Kerry and Limerick 
 
 ## Kennedy
-
+County: Wexford
 Kennedy  derives from the Gaelic name 
 Ceannéidigh which means "ugly head". The 
 surname is predominantly found in inland County 
@@ -57,6 +61,7 @@ President Kennedy's family came from coastal County
  Wexford.
 
 ## Ryan
+County: Wexford
 Ryan derives from the Gaelic Riagháin or Riain,
 The name is so ancient that they are not sure 
 what it means but they think it means either 
@@ -65,6 +70,7 @@ chiefs in coastal County Wexford. The surname is
 still predominant in the south of Ireland
 
 ## O'Brian
+County: Clare
 The surname O'Brian first occurred in
 County Clare. The O'Brians descend from 
 Brian Boru who was king
@@ -73,6 +79,7 @@ to be one of the greatest ancient kings of Ireland
 
 
 ## O'Connor
+County: Mayo, Sligo and  Galway
 The surname O'Connor was first found in 
 Connaught which is the western most province
  of Ireland and comprises of the coastal
@@ -80,3 +87,15 @@ Connaught which is the western most province
  inland Leitrim and Roscommon. The name means
  something like "hound of desire".
 
+
+## Fitzgerald
+County: Kerry and Limerick
+The surname Fitzgerald is actually 
+Anglo-Norman French in origin.
+The Gaelic form of the surname Fitzgerald is 
+"Mac Gerailt." The name is said to have come
+ from Maurice, son of Gerald. He arrived in
+ Ireland  during the Norman invasions.
+ After having been given land  his family 
+became powerful in Kildare, and  
+coastal county Kerry and Limerick.

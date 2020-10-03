@@ -5,7 +5,7 @@ description:  Beautiful Irish driftwood gifts and arts and crafts from the shore
 ---
 # Art, Crafts and Gifts made with Irish Driftwood
  
-![Driftwood Art, Crafts and Gifts from Ireland](/ireland-flag-small.jpg)
+![Driftwood Art, Crafts and Gifts from Ireland](/ireland1.jpg)
 
 The driftwood is gathered from the shores of
  Donegal, Kerry, Dingle, Cork and Wicklow. If
@@ -31,9 +31,11 @@ This very unusual keyring is sure to get people asking about it. Lovely to hold.
 Perfect for cars and RVs. Very cool!
 
 #### Hanging sculpture size
+![Irish Sculpture from Ireland](/assets/images/garlandart1.jpg)
 A larger garland that looks beautiful simply hanging from the wall or ceiling of your home or veranda.
 
 ## Driftwood Canvas Artwork
+![Irish Art and Sculpture from Ireland](/assets/images/art1.jpg)
 One off pieces of driftwood art. 
 Pieces of ireland that hang on your wall. 
 

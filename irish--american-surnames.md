@@ -50,7 +50,8 @@ Cork, Kerry and Limerick
 
 Kennedy  derives from the Gaelic name 
 Ceannéidigh which means "ugly head". The 
-surname is predominantly found in inlad County Tipperary 
+surname is predominantly found in inland County 
+Tipperary 
 where the medieval Kennedy's had a barony.
 President Kennedy's family came from coastal County
  Wexford.
@@ -62,4 +63,13 @@ what it means but they think it means either
 "water" or "little red one". The O'Riains were
 chiefs in coastal County Wexford. The surname is
 still predominant in the south of Ireland
+
+## O'Brian
+The surname O'Brian first occurred in
+County Clare. The O'Brians descend from 
+Brian Boru who was king
+ of Ireland from 1002 to 1014. He is considered 
+to be one of the greatest ancient kings of Ireland 
+
+
 

@@ -21,7 +21,7 @@ The driftwood is gathered from the shores of
 ## A little bit of Ireland in your home
 
 ### Small Driftwood Pieces
-![Irish Driftwood Small Pieces](/assets/images/bits1.jpg)
+<IMG alt='Irish Driftwood Small Pieces' SRC='/assets/images/bits1.jpg' class='product' />
 A simple but beautiful idea 
 
 ### Driftwood Keyring

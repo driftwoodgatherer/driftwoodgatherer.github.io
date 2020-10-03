@@ -1,5 +1,5 @@
 
-## Driftwood Gatherer and Celtic Wanderer Studio
+# Driftwood Gifts, Art, Craft and Home Decor by Country
 
 ## Ireland 
 ![Irish gifts, arts and craft from Ireland](/ireland-flag-small.jpg)

@@ -11,8 +11,10 @@ description:  Beautiful Irish driftwood gifts and arts and crafts from the shore
 ![Coastline of Ireland](/assets/images/ireland1.jpg)
 
 The driftwood is gathered from the shores of
- Donegal, Kerry, Dingle, Cork and Wicklow. If
- you want driftwood from a particular county
+ Clare, Cork, Donegal, Dublin, Galway, 
+Kerry, Limerick, Mayo, Sligo, Waterford,
+ Wexford and Wicklow.
+If you want driftwood from a particular county
  in Ireland please send a message.
  Commissions to gather and prepare driftwood
  from other specific locations in Ireland is
@@ -23,13 +25,14 @@ The driftwood is gathered from the shores of
 ### Small Driftwood Pieces
 <IMG alt='Irish Driftwood Small Pieces' SRC='/assets/images/bits1-680.jpg' />
 
-A simple but beautiful idea.
+A simple but beautiful idea. 
 
 $9.95 
 
 ### Driftwood Keyring
 ![Keyring Gift from Ireland](/assets/images/keyring1-680.jpg)
-This very unusual keyring is sure to get people asking about it. Lovely to hold.  Very tactile. A real piece of Ireland in your hand. 
+This very unusual keyring is sure to get 
+people asking about it. Lovely to hold.  Very tactile. A real piece of Ireland in your hand. 
 
 ### Driftwood Garlands
 #### Rear view mirror garland

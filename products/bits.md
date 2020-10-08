@@ -1,8 +1,7 @@
 ---
 title: Driftwood Pieces
 permalink: /product/pieces
-description:  Simple. Beautiful. Small pieces of 
-driftwood for displaying in a bowl.
+description:  Simple. Beautiful. Small pieces of driftwood for displaying in a bowl.
 ---
 ### f OFF arrrgg
 <div class="row">

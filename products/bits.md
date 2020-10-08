@@ -1,3 +1,9 @@
+---
+title: Driftwood Art and Craft Studio
+permalink: /product/pieces
+description:  Simple but beautiful  driftwood gifts, arts,.crafts and home decor ideas.
+---
+
 <div class="row">
   <div class="column">
     <img src="/assets/images/bits1-680.jpg">

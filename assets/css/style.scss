@@ -29,12 +29,12 @@ background-color:red;
   width: 100%;
 }
 
+
 @media screen and (max-width: 800px) {
-  .column {
+  .column {
+    -ms-flex: 50%;
     flex: 50%;
     max-width: 50%;
-background-color:blue;
   }
 }
-
 

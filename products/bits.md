@@ -1,7 +1,8 @@
 ---
-title: Driftwood Art and Craft Studio
+title: Driftwood Pieces
 permalink: /product/pieces
-description:  Simple but beautiful  driftwood gifts, arts,.crafts and home decor ideas.
+description:  Simple. Beautiful. Small pieces of 
+driftwood for displaying in a bowl.
 ---
 
 <div class="row">

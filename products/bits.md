@@ -5,6 +5,7 @@ description:  Simple. Beautiful. Small pieces of driftwood for displaying in a b
 ---
 
 # Small Driftwood Pieces
+<div>
 <div class="row">
   <div class="column">
     <img src="/assets/images/bits1-680.jpg">
@@ -19,6 +20,7 @@ description:  Simple. Beautiful. Small pieces of driftwood for displaying in a b
   
   </div>
  </div>
+</div>
 
 _£9.99_
 
@@ -29,9 +31,10 @@ a bowl or dish.
 The driftwood pieces are mixed but fairly light 
 in colour and weigh about 75g.
  
-## Country and location specific available
-Can choose Ireland, Scotland, England and Wales. 
-Can choose location within Ireland and Scotland 
+### Country and location specific
+If you wish you can choose
+- Ireland, Scotland, England and Wales. 
+- location within Ireland and Scotland 
 
 
 

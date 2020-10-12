@@ -15,20 +15,21 @@ Simple. Beautiful.<br/>
 __£7.99__
 
 ### Driftwood Keyrings
-<a href="/product/pieces">
+<a href="/product/keyring">
 <img src="/assets/images/keyring1-680.jpg"
 alt="Great gift for watersport  enthusiasts
 and nature lovers." />
 </a><be/>
 This very unusual keyring is lovely to hold. 
-Very tactile. 
+Very tactile. <br/>
 __£9.99__
 
 
 ### Driftwood Garlands
+
 #### Small garland
 ![Rear view mirror garland Ireland](/assets/images/garland1-680.jpg)
-Perfect for the rear view mirror in cars, motorhomes and campers. Very cool!
+Perfect for the rear view mirror. Very cool!
 
 #### Hanging sculpture garland
 ![Irish Sculpture from Ireland](/assets/images/garlandart1-680.jpg)

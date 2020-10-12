@@ -9,9 +9,7 @@ description: Lovely gift for campervan,
 # Driftwood Keyring or Keychain
 
 <div class="row">
-  <div class="column">
-    <img src="/assets/images/bits1-680.jpg">
-  </div> 
+  
 <div class="column">
  <img src="/assets/images/keyring1-680.jpg" 
 alt="Keychain gift idea for windsurfers, surfers, kitesurfers">

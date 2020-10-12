@@ -34,10 +34,11 @@ in colour. They weigh about 75g in total.
  
 ### Country and location
 If you wish you can choose
-- Ireland, Scotland, England and Wales. 
+- between Ireland, Scotland, England and Wales. 
 - location within Ireland and Scotland 
 
 
 
 ### International delivery
-Available as part of the international gift bundle
+Item only available as part of the
+international gift bundle

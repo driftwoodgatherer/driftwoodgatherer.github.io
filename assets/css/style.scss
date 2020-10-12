@@ -17,7 +17,7 @@ img.flag-header {height:2rem}
 }
 
 .column {
--ms-flex: 25%
+-ms-flex: 25%;
   flex: 25%;
   max-width: 25%;
  padding: 0 4px;
@@ -42,7 +42,7 @@ img.flag-header {height:2rem}
 
 @media screen and (max-width: 600px) {
   .column {
- -ms-flex: 100%
+ -ms-flex: 100%;
    flex: 100%;
     max-width: 100%;
 #background-color:green;

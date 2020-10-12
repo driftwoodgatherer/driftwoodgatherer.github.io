@@ -29,9 +29,9 @@ Just the right size and amount to display in
 a bowl or dish. 
 
 The driftwood pieces are mixed but fairly light 
-in colour and weigh about 75g.
+in colour. They weigh about 75g in total.
  
-### Country and location specific
+### Country and location
 If you wish you can choose
 - Ireland, Scotland, England and Wales. 
 - location within Ireland and Scotland 

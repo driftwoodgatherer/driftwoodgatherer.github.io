@@ -13,10 +13,12 @@ description: Lovely gift for campervan,
     <img src="/assets/images/bits1-680.jpg">
   </div> 
 <div class="column">
- <img src="/assets/images/bits2-680.jpg">
+ <img src="/assets/images/keyring1-680.jpg" 
+alt="Keychain gift idea for windsurfers, surfers, kitesurfers">
 </div> 
 <div class="column">
-    <img src="/assets/images/bits4-680.jpg">
+    <img src="/assets/images/keyring2-680.jpg"
+alt="Gift idea for campervan, motorhome, caravan, beach hut">
  </div> 
 <div class="column">
   

@@ -20,7 +20,7 @@ img.flag-header {height:2rem}
   flex: 25%;
   max-width: 25%;
   padding: 0 4px;
-background-color:red;
+# background-color:red;
 }
 
 .column img {
@@ -35,13 +35,13 @@ background-color:red;
     -ms-flex: 50%;
     flex: 50%;
     max-width: 50%;
-background-color:blue;
+# background-color:blue;
   }
 }
 
 @media screen and (max-width: 600px) {
   .column {
-    flex: 100%;
-    max-width: 100%;
+    flex: 50%;
+    max-width: 50%;
   }
 }

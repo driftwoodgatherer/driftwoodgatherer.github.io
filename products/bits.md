@@ -21,9 +21,6 @@ description:  Simple. Beautiful. Small pieces of driftwood for displaying in a b
   </div>
  </div>
 
-## Price
-
-_£9.99_ (free delivery)
 
 ## Details
 Just the right size and amount to display in 
@@ -31,6 +28,12 @@ a bowl or dish.
 
 The driftwood pieces are mixed but fairly light 
 in colour. They weigh about 75g in total.
+
+## Price
+
+_£9.99_ (free delivery)
+
+---
  
 ### Country and location
 If you wish you can choose

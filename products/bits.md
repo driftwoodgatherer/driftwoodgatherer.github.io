@@ -4,7 +4,7 @@ permalink: /product/pieces
 description:  Simple. Beautiful. Small pieces of driftwood for displaying in a bowl.
 ---
 
-# Driftwood Pieces
+# Small Driftwood Pieces
 <div class="row">
   <div class="column">
     <img src="/assets/images/bits1-680.jpg">
@@ -20,8 +20,20 @@ description:  Simple. Beautiful. Small pieces of driftwood for displaying in a b
   </div>
  </div>
 
-Small pieces of Driftwood
-
 _£9.99_
 
-International delivery available
+## Details
+Just the right size and amount to display in 
+a bowl or dish. 
+
+The driftwood pieces are mixed but fairly light 
+in colour and weigh about 75g.
+ 
+## Country and location specific available
+Can choose Ireland, Scotland, England and Wales. 
+Can choose location within Ireland and Scotland 
+
+
+
+### International delivery
+Available as part of the international gift bundle

@@ -5,7 +5,7 @@ description:  Simple. Beautiful. Small pieces of driftwood for displaying in a b
 ---
 
 # Small Driftwood Pieces
-<div>
+
 <div class="row">
   <div class="column">
     <img src="/assets/images/bits1-680.jpg">
@@ -14,15 +14,16 @@ description:  Simple. Beautiful. Small pieces of driftwood for displaying in a b
  <img src="/assets/images/bits2-680.jpg">
 </div> 
 <div class="column">
-    <img src="/assets/images/bits3-680.jpg">
+    <img src="/assets/images/bits4-680.jpg">
  </div> 
 <div class="column">
   
   </div>
  </div>
-</div>
 
-_£9.99_
+## Price
+
+_£9.99_ (free delivery)
 
 ## Details
 Just the right size and amount to display in 

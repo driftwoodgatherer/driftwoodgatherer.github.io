@@ -20,7 +20,7 @@ img.flag-header {height:2rem}
   flex: 25%;
   max-width: 25%;
   padding: 0 4px;
-# background-color:red;
+ background-color:red;
 }
 
 .column img {
@@ -35,7 +35,7 @@ img.flag-header {height:2rem}
     -ms-flex: 50%;
     flex: 50%;
     max-width: 50%;
-# background-color:blue;
+ background-color:blue;
   }
 }
 
@@ -43,5 +43,6 @@ img.flag-header {height:2rem}
   .column {
     flex: 50%;
     max-width: 50%;
-  }
+
+  }background-color:green;
 }

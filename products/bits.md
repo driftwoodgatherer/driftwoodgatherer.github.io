@@ -33,6 +33,23 @@ in colour. They weigh about 75g in total.
 
 _£9.99_ (free delivery)
 
+<form target="paypal" action="https://www.paypal.com/cgi-bin/webscr" method="post">
+<input type="hidden" name="cmd" value="_s-xclick">
+<input type="hidden" name="hosted_button_id" value="DNXYN48ZYC6EG">
+<table>
+<tr><td><input type="hidden" name="on0" value="Country">Country</td></tr><tr><td><select name="os0">
+	<option value="Any">Any </option>
+	<option value="Ireland">Ireland </option>
+	<option value="Scotland">Scotland </option>
+	<option value="Wales">Wales </option>
+	<option value="England">England </option>
+</select> </td></tr>
+</table>
+<input type="image" src="https://www.paypalobjects.com/en_GB/i/btn/btn_cart_LG.gif" border="0" name="submit" alt="PayPal – The safer, easier way to pay online!">
+<img alt="" border="0" src="https://www.paypalobjects.com/en_GB/i/scr/pixel.gif" width="1" height="1">
+</form>
+
+
 ---
  
 ### Country and location

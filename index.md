@@ -9,15 +9,21 @@ description:  Simple but beautiful  driftwood gifts, art, crafts and home decor 
 
 ### Small Driftwood Pieces
 <a href="/product/pieces">
-<IMG alt='Irish Driftwood Small Pieces' SRC='/assets/images/bits1-680.jpg' />
+<IMG alt='Small Driftwood Pieces For Display' SRC='/assets/images/bits1-680.jpg' />
 </a><br/>
 Simple. Beautiful.<br/> 
-__£9.99__
+__£7.99__
 
 ### Driftwood Keyrings
-![Keyring Gift from Ireland](/assets/images/keyring1-680.jpg)
-This very unusual keyring is sure to get 
-people asking about it. Lovely to hold.  Very tactile. A real piece of Ireland in your hand. 
+<a href="/product/pieces">
+<img src="/assets/images/keyring1-680.jpg"
+alt="Great gift for watersport  enthusiasts
+and nature lovers." />
+</a><be/>
+This very unusual keyring is lovely to hold. 
+Very tactile. 
+__£9.99__
+
 
 ### Driftwood Garlands
 #### Small garland

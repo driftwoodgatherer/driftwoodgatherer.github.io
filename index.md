@@ -8,10 +8,11 @@ description:  Simple but beautiful  driftwood gifts, art, crafts and home decor 
 ## Driftwood Art, Craft and Home Decor
 
 ### Small Driftwood Pieces
+<a href="/product/pieces">
 <IMG alt='Irish Driftwood Small Pieces' SRC='/assets/images/bits1-680.jpg' />
-
-A simple but beautiful idea.<br/> 
-__$9.95__
+</a><br/>
+Simple. Beautiful.<br/> 
+__£9.99__
 
 ### Driftwood Keyrings
 ![Keyring Gift from Ireland](/assets/images/keyring1-680.jpg)

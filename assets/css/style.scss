@@ -36,17 +36,17 @@ img.flag-header {height:2rem}
     -ms-flex: 50%;
     flex: 50%;
     max-width: 50%;
- background-color:blue;
+# background-color:blue;
   }
 }
 
 
 @media screen and (max-width: 600px) {
   .column {
- -ms-flex: 48%;
-   flex: 48%;
-    max-width: 48%;
-background-color:yellow;
+ -ms-flex: 50%;
+   flex: 50%;
+    max-width: 50%;
+#background-color:yellow;
 }
   }
 

@@ -43,7 +43,7 @@ The photos are for illustration purposes only.
 
 ## Price
 
-_£7.99_ (free delivery)
+_£9.99_ (free delivery)
 
 <form target="paypal" action="https://www.paypal.com/cgi-bin/webscr" method="post">
 <input type="hidden" name="cmd" value="_s-xclick">

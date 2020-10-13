@@ -7,6 +7,59 @@ description:  Simple but beautiful  driftwood gifts, art, crafts and home decor 
 
 ## Driftwood Art, Craft and Home Decor
 
+
+### Driftwood Keyrings
+<a href="/product/keyring">
+<img src="/assets/images/keyring1-680.jpg"
+alt="Great gift for watersport  enthusiasts
+and nature lovers." />
+</a><br/>
+Lovely to hold. Very tactile. <br/>
+__£7.99__
+
+
+### Driftwood Garlands
+
+#### Small garland
+<a href="/product/small-garland">
+<img src="/assets/images/garland1-680.jpg"
+alt="Great gift for campervan, motorhome, RV, caravan." />
+</a><br/>
+Perfect for the rear view mirror. Very cool!
+<br/>
+__£12.99__
+
+#### Small colourful garland
+<a href="/product/small-garlandc">
+<img src="/assets/images/garlandc1-680.jpg"
+alt="Great gift for campervan, motorhome, RV, caravan." />
+</a><br/>
+Multi coloured driftwood garland for the rear view mirror.
+<br/>
+__£12.99__
+
+
+#### Hanging sculpture garland
+<a href="/product/large-garland">
+<img src="/assets/images/garlandart1-680.jpg"
+alt="Driftwood hanging sculpture for your home" />
+</a><br/>
+A larger garland that looks beautiful  hanging from the wall or ceiling of your home or veranda.
+<br/>
+__£24.99__
+
+
+
+
+## Driftwood Canvas Artwork
+<a href="/product/art">
+<img src="/assets/images/art1-680.jpg"
+alt="Driftwood Art" />
+</a><br/>
+One off piece of driftwood artwork. 
+<br/>
+__£24.99__
+
 ### Small Driftwood Pieces
 <a href="/product/pieces">
 <IMG alt='Small Driftwood Pieces For Display' SRC='/assets/images/bits1-680.jpg' />
@@ -14,37 +67,11 @@ description:  Simple but beautiful  driftwood gifts, art, crafts and home decor 
 Simple. Beautiful.<br/> 
 __£7.99__
 
-### Driftwood Keyrings
-<a href="/product/keyring">
-<img src="/assets/images/keyring1-680.jpg"
-alt="Great gift for watersport  enthusiasts
-and nature lovers." />
-</a><be/>
-This very unusual keyring is lovely to hold. 
-Very tactile. <br/>
-__£9.99__
-
-
-### Driftwood Garlands
-
-#### Small garland
-![Rear view mirror garland Ireland](/assets/images/garland1-680.jpg)
-Perfect for the rear view mirror. Very cool!
-
-#### Hanging sculpture garland
-![Irish Sculpture from Ireland](/assets/images/garlandart1-680.jpg)
-A larger garland that looks beautiful simply hanging from the wall or ceiling of your home or veranda.
-
-## Driftwood Canvas Artwork
-![Irish Art and Sculpture from Ireland](/assets/images/art1-680.jpg)
-One off pieces of driftwood art. 
-Pieces of ireland that hang on your wall. 
-
+<!--
 ## Wedding favors
 Give your wedding guests a quirky but beautiful gift from the shores of Ireland.  
 
-### Driftwood Craft Kits
-These Irish craft kits make delightful gifts and are great fun. All you need to have a go at your own driftwood craft projects.
 
 ### Driftwood Bundles 
 Bundles of Irish driftwood for the more serious crafter. Subject to availablity!
+-->

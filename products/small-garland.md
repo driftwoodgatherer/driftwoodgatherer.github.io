@@ -17,7 +17,7 @@ alt="Gift for campervan, motorhome, RV, caravan, surf bus"
 />
 </div> 
 <div class="column">
-    <img src="/assets/images/garland3-680.jpg"
+    <img src="/assets/images/garland3_680.jpg"
 alt="Gift for windsurfer, surfer, kitesurfer" />
  </div> 
 <div class="column">

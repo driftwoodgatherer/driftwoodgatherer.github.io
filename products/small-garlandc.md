@@ -1,6 +1,6 @@
 ---
 title: Rear View Mirror Colourful Driftwood Garland
-permalink: /product/small-garland
+permalink: /product/small-garlandc
 description: Multi Coloured Driftwood garland for hanging from rear view mirror
 ---
 

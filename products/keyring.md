@@ -1,22 +1,22 @@
 ---
 title: Driftwood Keyring or Keychain
 permalink: /product/keyring
-description: Lovely gift for campervan,
- motorhome, boat, caravan, holiday home,
- beach hut and watersports 
+description: Driftwood Keyring or keychain. Ideal gift for watersport enthusiasts or nature lovers.
 ---
 
-# Driftwood Keyring or Keychain
+# Small Driftwood Pieces
 
 <div class="row">
-  
+  <div class="column">
+    <img src="/assets/images/keyring1-680.jpg"
+alt="Keyring gift for windsurfers, kite surfers and surfers">
+  </div> 
 <div class="column">
- <img src="/assets/images/keyring1-680.jpg" 
-alt="Keychain gift idea for windsurfers, surfers, kitesurfers">
+ <img src="/assets/images/keyring2-680.jpg"
+alt="Keyring gift for motorhomes, campervans, caravans, beach huts">
 </div> 
 <div class="column">
-    <img src="/assets/images/keyring2-680.jpg"
-alt="Gift idea for campervan, motorhome, caravan, beach hut">
+
  </div> 
 <div class="column">
   
@@ -25,25 +25,14 @@ alt="Gift idea for campervan, motorhome, caravan, beach hut">
 
 
 ## Details
+Each keyring is made from quality British or Irish beach worn driftwood. Lovely to hold and look at. Very tactile. These make a lovely gift for campervan, motorhome, boat, caravan, holiday home, beach hut and watersports enthusiasts. 
 
-Each keyring is made from quality beach worn
- driftwood. Lovely to hold and look at. Very
- tactile. 
-
-These make a lovely gift for campervan,
- motorhome, boat, caravan, holiday home,
- beach hut and watersports enthusiasts.
-
- THE PRICE IS FOR ONE KEYRING. 
-
-The photos are for illustration purposes only.
- The keyring you will receive will be similar
- but different as each keyring is unique and
- vary in shape, size and colour.
+ The photos are for illustration purposes only. The keyring you will receive will be similar but different as each keyring is unique and vary in shape, size and colour.
 
 ## Price
 
-_£9.99_ (free delivery)
+_£7.99_ (free delivery)
+
 
 <form target="paypal" action="https://www.paypal.com/cgi-bin/webscr" method="post">
 <input type="hidden" name="cmd" value="_s-xclick">
@@ -61,7 +50,7 @@ _£9.99_ (free delivery)
 <img alt="" border="0" src="https://www.paypalobjects.com/en_GB/i/scr/pixel.gif" width="1" height="1">
 </form>
 
----
+
 
 ### International delivery
 Item only available as part of the

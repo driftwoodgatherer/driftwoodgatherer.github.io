@@ -19,7 +19,7 @@ Find which county in Ireland your name originates from
 
 ## A little bit of Ireland in your home
 
-### Gift Bundle
+### International Gift Bundle 
 
 ![Irish gifts](/assets/images/bundle-680.jpg)
 

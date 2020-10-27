@@ -5,10 +5,10 @@ head-description:  Simple but beautiful  driftwood gifts, art, crafts and home d
 ---
 
 
-## Driftwood Art, Craft and Home Decor
+# Driftwood Art, Craft and Home Decor
 
 
-### Driftwood Keyrings
+## Driftwood Keyrings
 <a href="/product/keyring">
 <img src="/assets/images/keyring1-680.jpg"
 alt="Great gift for watersport  enthusiasts
@@ -18,9 +18,9 @@ Lovely to hold. Very tactile. <br/>
 __£7.99__
 
 
-### Driftwood Garlands
+## Driftwood Garlands
 
-#### Small garland
+### Small garland
 <a href="/product/small-garland">
 <img src="/assets/images/garland1-680.jpg"
 alt="Great gift for campervan, motorhome, RV, caravan." />
@@ -29,7 +29,7 @@ Perfect for the rear view mirror. Very cool!
 <br/>
 __£12.99__
 
-#### Small colourful garland
+### Small colourful garland
 <a href="/product/small-garlandc">
 <img src="/assets/images/garlandc1-680.jpg"
 alt="Great gift for campervan, motorhome, RV, caravan." />
@@ -39,7 +39,7 @@ Multi coloured driftwood garland for the rear view mirror.
 __£12.99__
 
 
-#### Hanging sculpture garland
+### Hanging sculpture garland
 <a href="/product/large-garland">
 <img src="/assets/images/garlandart1-680.jpg"
 alt="Driftwood hanging sculpture for your home" />
@@ -60,7 +60,7 @@ One off piece of driftwood artwork.
 <br/>
 __£24.99__
 
-### Small Driftwood Pieces
+## Small Driftwood Pieces
 <a href="/product/pieces">
 <IMG alt='Small Driftwood Pieces For Display' SRC='/assets/images/bits1-680.jpg' />
 </a><br/>

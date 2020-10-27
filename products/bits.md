@@ -37,7 +37,7 @@ _£7.99_ (free delivery)
 <input type="hidden" name="cmd" value="_s-xclick">
 <input type="hidden" name="hosted_button_id" value="DNXYN48ZYC6EG">
 <table>
-<tr><td><input type="hidden" name="on0" value="Country">Country</td></tr><tr><td><select name="os0">
+<tr><td><input type="hidden" name="on0" value="Country">Country of origin</td></tr><tr><td><select name="os0">
 	<option value="Any">Any </option>
 	<option value="Ireland">Ireland </option>
 	<option value="Scotland">Scotland </option>

@@ -23,13 +23,13 @@ Kerry, Limerick, Mayo, Sligo, Waterford,
 
 ## A little bit of Ireland in your home
 
-### International Gift Bundle <img src="/usa-flag-small.jpg" title="USA Irish American" class="flag-icon" />
-
+### Gift Bundle (International)
 - 2 driftwood keyrings or keychains
 - 1 driftwood and jute rope garland 
 - 75g of driftwood pieces
 
-__$100__ delivered to USA
+__$100__ delivered to USA <img src="/usa-flag-small.jpg" title="USA Irish American" class="flag-icon" />
+
 
 *For other destinations please email.
 
@@ -41,7 +41,7 @@ __$100__ delivered to USA
 Give your wedding guests a quirky but beautiful 
 gift from the shores of Ireland. 
 Make the wedding favors extra special by sourcing them  
-from the county associated with your family name
+from the <a href="/irish-american-names">county</a> associated with your family name
 
 
 ### Driftwood Bundles 

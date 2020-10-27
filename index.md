@@ -1,7 +1,7 @@
 ---
-title: Driftwood Gatherer Studio
+head-title: Driftwood Art, Craft and Home Decor
 permalink: /
-description:  Simple but beautiful  driftwood gifts, art, crafts and home decor ideas.
+head-description:  Simple but beautiful  driftwood gifts, art, crafts and home decor ideas.
 ---
 
 

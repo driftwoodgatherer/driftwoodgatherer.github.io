@@ -68,13 +68,15 @@ Simple. Beautiful.<br/>
 __£7.99__
 
 ## Wedding favors
+<a href="/product/wedding-favour">
 ![Wedding Favour Gift](/assets/images/keyring2-680.jpg)
+</a>
 Give your wedding guests a quirky but beautiful 
 driftwood keyring gift. 
 Make the wedding favours extra special by sourcing the driftwood  
 from either Wales, Ireland, England or Scotland.
 
-Email: [driftwoodgatherer@gmail.com](mailto: driftwoodgatherer@gmail.com)
+<a href="/product/wedding-favour">More details</a>
 
 ## Driftwood Bundles 
 Bundles of driftwood for the more serious crafter. Subject to availablity!

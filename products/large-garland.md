@@ -1,7 +1,7 @@
 ---
-title: Driftwood Hanging Sculpture Garland
+head-title: Driftwood Hanging Sculpture Garland
 permalink: /product/large-garland
-description: Driftwood sculpture for the home
+head-description: Driftwood sculpture for the home
 ---
 
 # Driftwood Hanging Sculpture Garland

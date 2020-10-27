@@ -72,7 +72,7 @@ __£7.99__
 ![Wedding Favour Gift](/assets/images/keyring2-680.jpg)
 </a>
 Give your wedding guests a quirky but beautiful 
-driftwood keyring gift. <a href="/product/wedding-favour">More details</a>
+driftwood keyring gift. <a href="/product/wedding-favour-gift">More details</a>
 
 ## Driftwood Bundles 
 Bundles of driftwood for the more serious crafter. Subject to availablity!

@@ -1,6 +1,6 @@
 ---
 head-title: Driftwood Wedding Favour Gifts
-permalink: /product/wedding-favour
+permalink: /product/wedding-favour-gift
 head-description: Original wedding favour idea for watersport enthusiasts and lovers of the sea.
 ---
 

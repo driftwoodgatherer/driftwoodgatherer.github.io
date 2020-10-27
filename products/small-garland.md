@@ -1,7 +1,7 @@
 ---
-title: Rear View Mirror Driftwood Garland
+head-title: Rear View Mirror Driftwood Garland
 permalink: /product/small-garland
-description: Driftwood garland for hanging from rear view mirror
+head-description: Driftwood garland for hanging from rear view mirror
 ---
 
 # Small Driftwood Garland - Rear View Mirror

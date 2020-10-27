@@ -78,5 +78,5 @@ Bundles of Irish driftwood for the more serious crafter. Subject to availablity!
 
 
 ### Cuttlefish Bone
-I also collect cuttlefish bone for budgies :)
-[Click here to view](/products/cuttlefish-bone)
+I also collect cuttlefish bone for budgies.
+[Click here to view](/product/cuttlefish-bone)

@@ -1,10 +1,10 @@
 ---
-title: Driftwood Keyring or Keychain
+head-title: Driftwood Keyring or Keychain
 permalink: /product/keyring
-description: Driftwood Keyring or keychain. Ideal gift for watersport enthusiasts or nature lovers.
+head-description: Driftwood Keyring or keychain. Ideal gift for watersport enthusiasts or nature lovers.
 ---
 
-# Small Driftwood Pieces
+# Driftwood Keyring
 
 <div class="row">
   <div class="column">

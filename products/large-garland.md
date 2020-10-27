@@ -42,6 +42,8 @@ _£24.99_ (free delivery)
 
 
 
+<!--
 ### International delivery
 Item only available as part of the
 international gift bundle
+-->

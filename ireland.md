@@ -19,7 +19,7 @@ Kerry, Limerick, Mayo, Sligo, Waterford,
 
 ## A little bit of Ireland in your home
 
-### International Gift Bundle <img src="/flag-usa-small.jpg" title="USA Irish American" class="flag-icon" />
+### International Gift Bundle <img src="/usa-flag-small.jpg" title="USA Irish American" class="flag-icon" />
 
 - 2 driftwood keyrings or keychains
 - 1 driftwood and jute rope garland 

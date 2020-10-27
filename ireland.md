@@ -19,9 +19,7 @@ Find which county in Ireland your name originates from
 
 ## A little bit of Ireland in your home
 
-### International Gift Bundle 
-
-![Irish gifts](/assets/images/bundle-680.jpg)
+### International Gift Bundle <img src="/flag-usa-small.jpg" title="USA Irish American" class="flag-icon" />
 
 - 2 driftwood keyrings or keychains
 - 1 driftwood and jute rope garland 
@@ -31,6 +29,7 @@ __$100__ delivered to USA
 
 *For other destinations please email.
 
+![Irish gifts](/assets/images/bundle-680.jpg)
 
 
 ### Wedding favors

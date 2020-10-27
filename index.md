@@ -67,14 +67,19 @@ __£24.99__
 Simple. Beautiful.<br/> 
 __£7.99__
 
-<!--
 ## Wedding favors
-Give your wedding guests a quirky but beautiful gift from the shores of Ireland.  
+![Wedding Favor Gift](/assets/images/keyring2-680.jpg)
+Give your wedding guests a quirky but beautiful 
+driftwood keyring gift. 
+Make the wedding favors extra special by sourcing the driftwood  
+from either Wales, Ireland, England or Scotland.
 
+Email: [driftwoodgatherer@gmail.com](mailto: driftwoodgatherer@gmail.com)
 
-### Driftwood Bundles 
-Bundles of Irish driftwood for the more serious crafter. Subject to availablity!
--->
+## Driftwood Bundles 
+Bundles of driftwood for the more serious crafter. Subject to availablity!
+
+Email: [driftwoodgatherer@gmail.com](mailto: driftwoodgatherer@gmail.com)
 
 
 ### Cuttlefish Bone

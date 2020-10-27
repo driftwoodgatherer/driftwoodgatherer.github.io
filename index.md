@@ -75,3 +75,8 @@ Give your wedding guests a quirky but beautiful gift from the shores of Ireland.
 ### Driftwood Bundles 
 Bundles of Irish driftwood for the more serious crafter. Subject to availablity!
 -->
+
+
+### Cuttlefish Bone
+I also collect cuttlefish bone for budgies :)
+[Click here to view](/products/cuttlefish-bone)

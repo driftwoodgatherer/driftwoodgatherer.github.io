@@ -46,6 +46,8 @@ _£24.99_ (free delivery)
 
 
 
-
+<!--
 ### International delivery
-Email driftwoodgatherer@gmail.com
+Item only available as part of the
+international gift bundle
+-->

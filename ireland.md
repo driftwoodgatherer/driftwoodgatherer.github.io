@@ -20,13 +20,17 @@ Kerry, Limerick, Mayo, Sligo, Waterford,
 <a href="/irish-american-names"><img title="Counties of Ireland" src="/counties-of-ireland.jpg" class="big" /></a>
 
 
+## Gift Bundle (International)
+- 2 driftwood keyrings or keychains <br/>
+A real piece of Ireland in your hand.
+Lovely to hold.  Very tactile. This very unusual keyring is sure to get 
+people asking about it
 
-## A little bit of Ireland in your home
+- 1 driftwood and jute rope garland <br/>
+Perfect for cars and RVs or just to hang on a wall. Very cool!
 
-### Gift Bundle (International)
-- 2 driftwood keyrings or keychains
-- 1 driftwood and jute rope garland 
-- 75g of driftwood pieces
+- 75g of driftwood pieces <br/>
+Just the right size and amount to display in a bowl or dish.
 
 __$100__ delivered to USA <img src="/usa-flag-small.jpg" title="USA Irish American" class="flag-icon" />
 
@@ -36,14 +40,14 @@ __$100__ delivered to USA <img src="/usa-flag-small.jpg" title="USA Irish Americ
 ![Irish gifts](/assets/images/bundle-680.jpg)
 
 
-### Wedding favors
+## Wedding favors
 ![Iish Wedding Favor Gift from Ireland](/assets/images/keyring2-680.jpg)
 Give your wedding guests a quirky but beautiful 
-gift from the shores of Ireland. 
-Make the wedding favors extra special by sourcing them  
+driftwood keychain gift from the shores of Ireland. 
+Make the wedding favors extra special by sourcing the driftwood  
 from the <a href="/irish-american-names">county</a> associated with your family name
 
 
-### Driftwood Bundles 
+## Driftwood Bundles 
 Bundles of Irish driftwood for your own arts and crafs. Great fun for all the family. Subject to availablity!
 

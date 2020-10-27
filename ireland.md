@@ -1,8 +1,12 @@
 ---
-title: Gifts from Ireland - Delivered to USA
+head_title: Gifts from Ireland - Delivered to USA
 permalink: /ireland
-description:  Beautiful Irish driftwood gifts from the shores of Ireland
+head_description:  Beautiful Irish driftwood
+ gifts from the shores of Ireland. Select the
+ county which is associated with your irish family 
+name
 ---
+
 <IMG alt='Driftwood Art, Crafts and Gifts from Ireland' SRC='/ireland-flag-small.jpg' />
 
 
@@ -17,7 +21,7 @@ Kerry, Limerick, Mayo, Sligo, Waterford,
 
 [Find which county in Ireland your name originates from](/irish-american-names)
 
-<a href="/irish-american-names"><img title="Counties of Ireland" src="/counties-of-ireland.jpg" class="big" /></a>
+<a href="/irish-american-names"><img title="Counties of Ireland" src="/counties-of-ireland2.jpg" class="big" /></a>
 
 
 ## Gift Bundle (International)

@@ -1,7 +1,7 @@
 ---
-title: Driftwood Canvas Art
+head-title: Driftwood Canvas Art
 permalink: /product/art
-description: Driftwood Canvas Art
+head-description: Driftwood Canvas Art
 ---
 
 # Driftwood Canvas Art

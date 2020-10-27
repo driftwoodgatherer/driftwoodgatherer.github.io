@@ -15,7 +15,7 @@ The driftwood is gathered from the shores of
 Kerry, Limerick, Mayo, Sligo, Waterford,
  Wexford and Wicklow.
 
-Find which county in Ireland your name originates from
+[Find which county in Ireland your name originates from](/irish-american-names)
 
 ## A little bit of Ireland in your home
 

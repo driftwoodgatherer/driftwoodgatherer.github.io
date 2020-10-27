@@ -10,6 +10,15 @@
     <!--[if lt IE 9]>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.min.js"></script>
     <![endif]-->
+
+   
+<title>{{% page.head-title %}}</title>
+<meta name="description" content="{{% page.head-description %}}" />
+<meta name="keywords" content="{{% page.head-keywords %}}" />
+
+
+
+<script src="https://kit.fontawesome.com/1d98022c34.js" crossorigin="anonymous"></script>
   </head>
   <body>
     <div class="wrapper">
@@ -25,13 +34,10 @@
 
 {% assign current = page.url | downcase | split: '/' %}
 
-<nav>
-  <ul>
-    <li><a href='/' {% if current[1] == '' %}class='current'{% endif %}>Home</a></li>
-    <li><a href='/ireland' {% if current[1] == 'ireland' %}class='current'{% endif %}>Ireland</a></li>
-    <li><a href='/scotland' {% if current[1] == 'scotland' %}class='current'{% endif %}>Scotland</a></li>
-  </ul>
-</nav>
+<p>
+     <a href='/'>Home</a> | 
+    <a href='/ireland'>Ireland</a>
+  </p>
 
    <form target="paypal" action="https://www.paypal.com/cgi-bin/webscr" method="post" >
 <input type="hidden" name="cmd" value="_s-xclick">

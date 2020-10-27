@@ -21,19 +21,18 @@ Kerry, Limerick, Mayo, Sligo, Waterford,
 
 
 ## Gift Bundle (International)
-- ### 2 driftwood keyrings or keychains__ 
-
+- __2 driftwood keyrings or keychains__ <br/>
 A real piece of Ireland in your hand.
 Lovely to hold.  Very tactile. This very unusual keyring is sure to get 
 people asking about it
 
-- 1 driftwood and jute rope garland <br/>
+- __1 driftwood and jute rope garland__ <br/>
 Perfect for cars and RVs or just to hang on a wall. Very cool!
 
-- 75g of driftwood pieces <br/>
+- __75g of driftwood pieces__ <br/>
 Just the right size and amount to display in a bowl or dish.
 
-__$100__ delivered to USA <img src="/usa-flag-small.jpg" title="USA Irish American" class="flag-icon" />
+__Total: $100__ incl delivery to USA <img src="/usa-flag-small.jpg" title="USA Irish American" class="flag-icon" />
 
 
 *For other destinations please email.

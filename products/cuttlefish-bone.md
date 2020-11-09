@@ -11,19 +11,22 @@ head-description:  British cuttlefish bone for birds and reptiles
 
 
 ## Details
-750g British Cuttlefish Bone. Almost whole 10-14cm (aprox 30 pieces)
 
-Varying sizes but most are a good size 
-and nearly whole. Broken by the stormy sea.
 
-750g is about 30 pieces but it may be less 
-if there are heavy pieces in the mix. Mostly
- 10-14cm range. 100% Natural Real British Cuttlefish
- Bone
+100% natural British cuttlefish bone. 
+Varying sizes. This is a natural 
+product picked fresh from the beach
+so not pristine white. Many pieces
+ are slightly broken but most are a good size 
+and nearly whole. Typically 10cm-14cm.
+ Broken by the stormy sea.
 
-## Price
+__Your pets will find them delicious :)__
 
-__£15.00__ (free delivery)
+700g which about 25-30 pieces. Mostly
+ 10-14cm range.
+
+__£13.99__ (free delivery)
 
 <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
 <input type="hidden" name="cmd" value="_s-xclick">

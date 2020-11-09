@@ -23,7 +23,7 @@ and nearly whole. Typically 10cm-14cm.
 
 __Your pets will find them delicious!__
 
-<hr style="border:1px solid #45ABDB; margin:5px Opx;" />
+<hr style="border-top:2px solid #45ABDB; margin:5px Opx;" />
 
 ### Buy a Big Box
 700g which about 25-30 pieces. Mostly
@@ -37,6 +37,8 @@ __£13.99__ (free delivery)
 <input type="image" src="/pp_button_small.jpg" border="0" name="submit" alt="PayPal – The safer, easier way to pay online!">
 <img alt="" border="0" src="https://www.paypalobjects.com/en_GB/i/scr/pixel.gif" width="1" height="1">
 </form>
+
+<hr style="border-top:2px solid #45ABDB; margin:5px Opx;" />
 
 ### Buy a Medium Box
 
@@ -52,6 +54,7 @@ __£8.10__ (free delivery)
 <img alt="" border="0" src="https://www.paypalobjects.com/en_GB/i/scr/pixel.gif" width="1" height="1">
 </form>
 
+<hr style="border-top:2px solid #45ABDB; margin:5px Opx;" />
 
 ## About cuttle fish bone pet food
 

@@ -21,8 +21,9 @@ so not pristine white. Many pieces
 and nearly whole. Typically 10cm-14cm.
  Broken by the stormy sea.
 
-__Your pets will find them delicious :)__
+__Your pets will find them delicious!__
 
+### Buy a Big Box
 700g which about 25-30 pieces. Mostly
  10-14cm range.
 
@@ -35,8 +36,22 @@ __£13.99__ (free delivery)
 <img alt="" border="0" src="https://www.paypalobjects.com/en_GB/i/scr/pixel.gif" width="1" height="1">
 </form>
 
+### Buy a Medium Box
 
-## About cuttle fish bone
+350g which about 15 pieces. Mostly
+ 10-14cm range.
+
+__£8.10__ (free delivery)
+
+<form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
+<input type="hidden" name="cmd" value="_s-xclick">
+<input type="hidden" name="hosted_button_id" value="SBMTJ59286Q3C">
+<input type="image" src="https://www.paypalobjects.com/en_US/GB/i/btn/btn_buynowCC_LG.gif" border="0" name="submit" alt="PayPal – The safer, easier way to pay online!">
+<img alt="" border="0" src="https://www.paypalobjects.com/en_GB/i/scr/pixel.gif" width="1" height="1">
+</form>
+
+
+## About cuttle fish bone pet food
 
 Great for budgies, many other birds, reptiles, tortoises and african snails
 

@@ -28,9 +28,11 @@
           <img src="{{site.logo | relative_url}}" alt="Logo" />
         {% endif %}
 
-        <p>{{ site.description | default: site.github.project_tagline }}</p>
+        <p>{{ site.description | default: site.github.project_tagline }}
+<br/>
+<a href="mailto:driftwoodgatherer@gmail.com">driftwoodgatherer@gmail.com</a>
+</p>
 
-<div><a href="mailto:driftwoodgatherer@gmail.com">driftwoodgatherer@gmail.com</a></div>
 
 {% assign current = page.url | downcase | split: '/' %}
 

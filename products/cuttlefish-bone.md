@@ -7,7 +7,7 @@ head-description:  British cuttlefish bone for birds and reptiles
 # Cuttlefish Bone
 
 
-<div><img src="/assets/images/cuttlefish-bone-680.jpg"></div>
+<div><img src="/assets/images/cf1_680_x_540.jpg"></div>
 
 
 ## Details

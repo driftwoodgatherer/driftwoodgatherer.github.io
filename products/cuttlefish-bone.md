@@ -45,7 +45,7 @@ __£12.90__ (free delivery)
 
 ### Buy a Medium Box
 
-350g which about 15 pieces. Mostly
+350g which about 15-20 pieces. Mostly
  10-14cm range.
 
 __£7.90__ (free delivery)

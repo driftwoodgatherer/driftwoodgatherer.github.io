@@ -2,7 +2,6 @@
 head-title: Cuttlefish Bone For Sale
 permalink: /product/cuttlefish-bone
 head-description:  British cuttlefish bone for birds and reptiles
-nocart:true
 ---
 
 # Cuttlefish Bone

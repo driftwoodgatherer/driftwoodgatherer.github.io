@@ -13,8 +13,8 @@ head-description:  Simple but beautiful  driftwood gifts, art, crafts and home d
 <img src="/assets/images/cf1_680_x_540.jpg"
 alt="Cuttlefish for budgies, reptiles, pets." />
 </a><br/>
-I can supply your pets with delicious cuttlefish bone yum yum 
-<a href="/product/cuttlefish-bone">CLICK HERE</a>
+I can supply your pets with natural cuttlefish bone
+<a href="/product/cuttlefish-bone">Click here</a> for great prices.
 
 
 

@@ -29,8 +29,11 @@ __Your pets will find them delicious!__
 <hr style="border-top:2px solid #45ABDB; margin:5px Opx;" />
 
 ### Buy a Big Box
-700g which about 25-30 pieces. Mostly
- 10-14cm range.
+At least 700g. Mostly
+ 10-14cm range. The number of pieces you get depends on the density. 
+Sometimes in the year they are quite light so 700g is 25-30 pieces. 
+Sometimes they are very dense and heavy so you'd get maybe 20. 
+I'm often very generous though!
 
 __£12.90__ (free delivery)
 
@@ -45,8 +48,8 @@ __£12.90__ (free delivery)
 
 ### Buy a Medium Box
 
-350g which about 15-20 pieces. Mostly
- 10-14cm range.
+At least 350g. Mostly
+ 10-14cm range. The number of pieces you get depends on the density. Sometimes in the year they are quite light so 3500g is 15-20 pieces. Sometimes they are very dense and heavy so you'd get maybe 10. I'm often very generous though!
 
 __£7.90__ (free delivery)
 

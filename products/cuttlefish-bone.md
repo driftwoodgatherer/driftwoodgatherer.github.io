@@ -21,6 +21,9 @@ so not pristine white. Many pieces
 and nearly whole. Typically 10cm-14cm.
  Broken by the stormy sea.
 
+When you receive them you should 
+leave them out to dry off completely.
+
 __Your pets will find them delicious!__
 
 <hr style="border-top:2px solid #45ABDB; margin:5px Opx;" />
@@ -29,7 +32,7 @@ __Your pets will find them delicious!__
 700g which about 25-30 pieces. Mostly
  10-14cm range.
 
-__£13.99__ (free delivery)
+__£12.90__ (free delivery)
 
 <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
 <input type="hidden" name="cmd" value="_s-xclick">
@@ -45,7 +48,7 @@ __£13.99__ (free delivery)
 350g which about 15 pieces. Mostly
  10-14cm range.
 
-__£8.10__ (free delivery)
+__£7.90__ (free delivery)
 
 <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
 <input type="hidden" name="cmd" value="_s-xclick">
